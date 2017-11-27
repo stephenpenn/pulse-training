@@ -5,4 +5,4 @@ Feature: EverettFeatureFileTest
   Scenario: Boring Situation
     Given when a puppy is in the room
     When the puppy bites Everett
-    Then Everett laughs
+    Then Everett dies
