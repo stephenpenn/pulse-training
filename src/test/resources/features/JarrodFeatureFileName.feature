@@ -5,4 +5,4 @@ Feature: JarrodFeatureFileName
   Scenario: Testing that when X happens that Y happens
     Given that Jarrod is the person
     When X thing happens
-    Then Y thing should happen subsequently
+    Then Y thing should happen subsequently!
