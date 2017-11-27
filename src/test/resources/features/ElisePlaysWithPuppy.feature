@@ -7,3 +7,8 @@ Feature: ElisePlaysWithPuppy
      When the puppy bites Elise
      Then Elise laughs
      
+  Scenario: Puppy plays dead
+    Given when a puppy is in the
+     When I do something else
+     Then Something
+     
