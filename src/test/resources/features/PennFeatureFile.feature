@@ -6,3 +6,5 @@ Feature:PennFeatureFile
     Given I have money in my coinbase account
     When I buy bitcoins
     Then my total will go up accordingly
+
+This is my Git edit check!
