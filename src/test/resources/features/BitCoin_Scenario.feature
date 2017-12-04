@@ -6,4 +6,4 @@ Feature:BitCoin Scenario
     Given the trader has a coinbase account
     When I purchase bitcoin using my bank 
     Then my account balance will go up in the corresponding amount
-Added in Git
+
